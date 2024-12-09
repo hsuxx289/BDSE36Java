@@ -27,7 +27,7 @@ public class EX4_6_4 {
 				if (a=="y") {
 					System.out.println("請問你是否常常口乾");
 					a = s.getString();
-					if (a=="Y") {
+					if (a=="y") {
 						System.out.println("先生/小姐您可能得了肝病");
 					}
 					else {
