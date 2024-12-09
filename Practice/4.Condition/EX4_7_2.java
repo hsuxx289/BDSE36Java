@@ -18,6 +18,7 @@ public class EX4_7_2 {
 		operator = operator_str.charAt(0);
 		oper2 = s.getDouble();
 		result = 0;
+		s.close();
 		switch(operator) {
 			case '+':
 				result = oper1 + oper2;
