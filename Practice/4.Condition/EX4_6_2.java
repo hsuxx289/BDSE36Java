@@ -9,6 +9,7 @@ public class EX4_6_2 {
 		double height = s.getDouble()/100;
 		System.out.printf("請輸入客戶體重(公斤) ");
 		int weight = s.getInt();
+		s.close();
 		double bmi = weight/(height*height);
 		double weight2 = 0;
 		System.out.printf("客戶 BMI 值 = %.2f\n",bmi);
