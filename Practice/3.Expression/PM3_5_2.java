@@ -1,4 +1,4 @@
-package com.bo.ex;
+package com.bo.java;
 
 import java.util.Scanner;
 import java.lang.Math;
