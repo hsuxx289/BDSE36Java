@@ -28,5 +28,6 @@ public class PM5_6_4 {
 		else {
 			System.out.println("加油 !! 再來一次");
 		}
+		s.close();
 	}
 }
