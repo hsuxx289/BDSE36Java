@@ -1,6 +1,6 @@
 package com.bo.java;
 
-public class PM2_2_1 {
+public class PM7_2_1 {
 	public static void main(String args[]) {
 	
 		double course[] = {78.8, 72.3, 61, 56, 87, 
